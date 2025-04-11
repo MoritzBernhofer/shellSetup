@@ -21,8 +21,9 @@ alias kub='kubectl'
 
 # paths
 alias cdtmp='cd ~/Desktop/tmp/'
-alias startup='nvim ~/Documents/GitHub/shellSetup/startup.sh'
+alias config='nvim ~/Documents/GitHub/shellSetup/startup.sh'
 alias pcp='pwd | pbcopy'
+alias cdgit='cd ~/Documents/Github'
 
 #docker
 alias dcb='docker compose build'
@@ -36,3 +37,7 @@ alias applyMigration='dotnet ef database update'
 # starship
 
 eval "$(starship init zsh)"
+
+# startup script
+
+neofetch
