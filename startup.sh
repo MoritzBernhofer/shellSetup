@@ -15,6 +15,7 @@ alias ls="lsd -lah"
 # customscripts
 alias killp="~/customprograms/./killp.sh"
 alias run="~/customprograms/./run.sh"
+alias opengit='~/Documents/GitHub/shellSetup/customScripts/openGitRepo.sh'
 
 # kubernetes
 alias kub='kubectl'
