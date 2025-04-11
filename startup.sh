@@ -13,8 +13,7 @@ alias cd..="cd .."
 alias ls="lsd -lah"
 
 # customscripts
-alias killp="~/customprograms/./killp.sh"
-alias run="~/customprograms/./run.sh"
+alias run="~/Documents/GitHub/shellSetup/customScripts/run.sh"
 alias opengit='~/Documents/GitHub/shellSetup/customScripts/openGitRepo.sh'
 
 # kubernetes
