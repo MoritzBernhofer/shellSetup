@@ -1,6 +1,6 @@
 clear
 
-autoload -U compinit && compinit
+autoload -U compinit && compinit -C
 
 # paths
 
@@ -15,6 +15,7 @@ alias ls="lsd -lah"
 # customscripts
 alias run="~/Documents/GitHub/shellSetup/customScripts/run.sh"
 alias opengit='~/Documents/GitHub/shellSetup/customScripts/openGitRepo.sh'
+alias runai='~/Documents/GitHub/shellSetup/customScripts/runAI.sh'
 
 # kubernetes
 alias kub='kubectl'
