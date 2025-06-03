@@ -1,1 +1,1 @@
-ollama run gemma3:latest
+ollama run gemma3:latest "$@"
