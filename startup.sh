@@ -35,6 +35,10 @@ alias dps='docker ps -la'
 alias addMigration='dotnet ef migrations add Initial'
 alias applyMigration='dotnet ef database update'
 
+# python
+alias python='python3'
+alias pip='pip3'
+
 # starship
 
 eval "$(starship init zsh)"
