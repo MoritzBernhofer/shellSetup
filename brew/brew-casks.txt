@@ -1,5 +1,4 @@
 devtoys
-dotnet
 kitty
 maccy
 miniforge
