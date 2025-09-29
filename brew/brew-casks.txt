@@ -1,5 +1,7 @@
 devtoys
 kitty
 maccy
+mactex
 miniforge
 rectangle
+stats
